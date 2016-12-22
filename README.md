@@ -10,9 +10,17 @@ Easy get git ignore (base on [GitHub gitignore](https://github.com/github/gitign
 
 ## Config gitignore repo path
 
-Double click to set.
+### Double click to set.
 
 ![](ScreenShot/0.png)
+
+### Clone gitignore repo
+
+```bash
+$ git clone https://github.com/github/gitignore.git /yourpath
+```
+
+### Set the repo path
 
 My path is `/Users/Yourtion/Codes/Apps/gitignore/` 
 
